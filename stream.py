@@ -6,8 +6,8 @@ from os import path
 from datetime import datetime
 
 
-image_interval = 5000
-camera_ips = [37, 39]
+image_interval = 200
+camera_ips = [201, 202]
 stream_links = {}
 
 
